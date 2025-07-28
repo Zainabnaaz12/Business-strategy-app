@@ -1,0 +1,9 @@
+# Ignore node_modules
+
+backend/node_modules/
+my-ai-app/node_modules/
+
+# Ignore environment files
+.env
+
+
