@@ -1,4 +1,4 @@
-# Business Strategy Generator
+# AI Powered Business Strategy Generator
 
 An AI-powered full-stack web application that helps businesses generate:
 - **Strategy Analysis** (AI-driven strategies based on uploaded data & context)
